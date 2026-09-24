@@ -1,0 +1,10 @@
+README.md                 ← overall project
+
+data_pipeline/
+    data_pipeline.ipynb   ← explanations in Markdown cells
+
+analytics/
+    analytics.ipynb       ← explanations in Markdown cells
+
+support_assistant/
+    support_assistant.ipynb ← explanations in Markdown cells
